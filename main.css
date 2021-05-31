@@ -1,0 +1,85 @@
+#main {
+  background-color: rgb(221, 221, 221);
+  margin: 0px;
+  font-family: "Oxygen", sans-serif;
+}
+
+#heading-wrapper {
+  text-align: center;
+}
+
+#title {
+  font-size: 9vh;
+  font-family: "Great Vibes", cursive;
+}
+
+#title-citation {
+  font-style: italic;
+  font-size: 1rem;
+  margin-top: -4vh;
+  margin-bottom: 8vh;
+  color: #748995;
+  padding: 0 5vw;
+}
+
+#img-div {
+  text-align: center;
+  background-color: rgb(229, 229, 225);
+  padding: 3rem 5vw;
+}
+
+#image {
+  border-radius: 50%;
+  border: 1.5px solid hsl(202, 13%, 52%);
+  width: 50vh;
+  max-width: 100%;
+  display: block;
+  align-self: center;
+  margin: 0 auto;
+}
+
+#img-caption {
+  color: #888;
+  font-size: 2vh;
+  font-weight: 500;
+}
+
+#tribute-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.article-section {
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+ul {
+  margin: 0 0.5rem;
+}
+
+p {
+  margin: 2vh 2rem;
+  text-align: justify;
+  font-size: 2.2vh;
+  font-family: "Oxygen", sans-serif;
+  color: #888;
+}
+
+h4 {
+  text-align: justify;
+  font-size: 2vh;
+  font-family: "Oxygen", sans-serif;
+  color: #888;
+  padding-bottom: 2rem;
+  margin: 2vh 1.5rem 2vh 0;
+}
+
+footer {
+  margin: 3em auto;
+  font-style: italic;
+  text-align: center;
+}
