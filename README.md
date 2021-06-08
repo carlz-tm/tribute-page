@@ -1,3 +1,5 @@
 # screenshot
-This is my project just used for learn & example
+I just used this project for learning material & examples only.
+You are allowed to contribute and make it better. Thanks.
+
 ![screenshot](https://user-images.githubusercontent.com/67325041/121109157-38ff2800-c835-11eb-9c81-6887ed0789a1.png)
